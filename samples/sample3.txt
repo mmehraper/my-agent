@@ -1,0 +1,10 @@
+mon - rahul pushed fix for LOGIN-999... tests green i think
+mnday: spent like 3 hrs helping support w/ acct lockouts, client was angry
+tue: deplyd to stg.. 12/14 passed 2 faild in checkout
+tue - waitin on legal for privacy term updtes, priya pinged them
+wed - payment gatway vnder said api might b down thurs?? could delay launch date 22 Oct
+wed: clint sync w acme retail... they loved the new cart ui!!
+thu: sam stck on db deadlok in CHK-104.. cant repro on local machine at all
+thu - closed bugs CHK-101 and 102
+fri: nxt week startin invoice export & prep demo 4 friday
+fri: no access to prod metrics dashbaord yet, it tckt raised

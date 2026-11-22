@@ -1,0 +1,3 @@
+Tue: Shipped user profile redesign (UI-401) to production, zero crash reports.
+Wed: Waiting on database migration approval from DBA team, release currently on hold.
+Fri: Next week we plan to start work on two-factor authentication.
